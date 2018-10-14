@@ -1,0 +1,23 @@
+{
+  "name": "Command_Line_Wordguess",
+  "version": "1.0.0",
+  "description": "A silly node exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryBY1149/Command_Line_Wordguess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryBY1149/Command_Line_Wordguess/issues"
+  },
+  "homepage": "https://github.com/HarryBY1149/Command_Line_Wordguess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
